@@ -1,0 +1,2 @@
+include ':app', ':lib'
+project(':lib').projectDir = new File('SWAPI-Android-SDK-master/SWAPI_SDK/lib')
